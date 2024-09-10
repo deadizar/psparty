@@ -1,0 +1,2 @@
+# psparty
+PsParty static base
